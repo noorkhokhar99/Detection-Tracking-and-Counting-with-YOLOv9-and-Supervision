@@ -5,8 +5,6 @@ Detection, Tracking, and Counting with YOLOv9 and Supervision
 
 🚀 Exciting News in Computer Vision! 🤖✨ Check out our latest project on Detection, Tracking, and Counting with YOLOv9 and Supervision! 🎥🔍
 
-🔗 Video Link: https://www.youtube.com/channel/UCyB_7yHs7y8u9rONDSXgkCg?view_as=subscriber
-
 🌟 Features:
 
 1️⃣ Object detection with YOLOv9
@@ -19,3 +17,7 @@ Detection, Tracking, and Counting with YOLOv9 and Supervision
 
 5️⃣ Video annotation and processing techniques
 
+
+### Watch the Complete Step by Step Explanation
+
+[![Watch the video](https://github.com/noorkhokhar99/Detection-Tracking-and-Counting-with-YOLOv9-and-Supervision/blob/main/www.pyresearch.com.png)](https://www.youtube.com/@Pyresearch/videos)
